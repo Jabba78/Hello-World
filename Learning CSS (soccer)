@@ -16,6 +16,8 @@ h1 {
   text-align: left;
   width: 60%;
   font-family: "Playfair Display", serif;
+  text-transform: uppercase;
+  text-align: left;
 }
 
 h2 {
@@ -28,14 +30,19 @@ h2 {
   text-align: left;
   width: 70%;
   font-family: Roboto, sans-serif;
+  word-spacing: 0.05em;
+  letter-spacing: 0.02em;
+  font-style: italic;
 }
 
 p {
   color: AliceBlue;
-  line-height: 1em;
+  line-height: 1.7em;
   text-align: left;
   width: 100%;
   font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 100;
 }
 
 .byline {
